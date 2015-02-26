@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{97979E9D-69D2-4A6E-91DA-B46F375DC305}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DwtcDemo", "src\DwtcDemo\DwtcDemo.kproj", "{32EEB6FB-0829-4D3C-9FA4-8001CB6C6348}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03480E96-CB21-48AA-B471-C9010206628C}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32EEB6FB-0829-4D3C-9FA4-8001CB6C6348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EEB6FB-0829-4D3C-9FA4-8001CB6C6348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EEB6FB-0829-4D3C-9FA4-8001CB6C6348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EEB6FB-0829-4D3C-9FA4-8001CB6C6348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32EEB6FB-0829-4D3C-9FA4-8001CB6C6348} = {97979E9D-69D2-4A6E-91DA-B46F375DC305}
+	EndGlobalSection
+EndGlobal
